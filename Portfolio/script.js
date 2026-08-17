@@ -1,0 +1,1 @@
+console.log("Kelechi's portfolio loaded successfully.");
